@@ -1,0 +1,19 @@
+#game {
+    width: 900px;
+    height: 500px;
+    background-color:  #DDD;
+    color: coral;
+    margin: auto;
+    margin-bottom: 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content {
+    position: relative;
+    text-align: center;
+    margin-top: 25px;
+    margin: auto;
+    padding: 25px;
+    border: ridge 25px teal;
+    width: 450px;
+}
