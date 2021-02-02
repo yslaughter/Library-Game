@@ -28,7 +28,7 @@ var gameData = {
     },
     
     librarian: {
-        msg: 'You get bore and fall asleep, and since that is not allowed - you are asked to leave ---  GAME OVER!!',
+        msg: 'You get bored and fall asleep, and since that is not allowed - you are asked to leave ---  GAME OVER!!',
         img: 'media/gameover.jpg',
     },
 
